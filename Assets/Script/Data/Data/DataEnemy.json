@@ -1,0 +1,142 @@
+{
+    "Enemy1":
+    {
+        "Id": "E1",
+        "Name": "Angel Knight",
+        "Element1": "Anemo",
+        "Element2": "Hydro",
+        "Hp": 1850,
+        "ElementalSkill1": 225,
+        "ElementalSkill2": 195
+    },
+    "Enemy2":
+    {
+        "Id": "E2",
+        "Name": "Bonemask Shadow",
+        "Element1": "Geo",
+        "Element2": "Electro",
+        "Hp": 1700,
+        "ElementalSkill1": 200,
+        "ElementalSkill2": 240
+    },
+    "Enemy3":
+    {
+        "Id": "E3",
+        "Name": "Gargoyle Sabre",
+        "Element1": "Pyro",
+        "Element2": "Anemo",
+        "Hp": 1800,
+        "ElementalSkill1": 225,
+        "ElementalSkill2": 300
+    },
+    "Enemy4":
+    {
+        "Id": "E4",
+        "Name": "Jubokko",
+        "Element1": "Pyro",
+        "Element2": "Geo",
+        "Hp": 1855,
+        "ElementalSkill1": 300,
+        "ElementalSkill2": 200
+    },
+    "Enemy5":
+    {
+        "Id": "E5",
+        "Name": "Kitsune",
+        "Element1": "Cryo",
+        "Element2": "Electro",
+        "Hp": 1750,
+        "ElementalSkill1": 250,
+        "ElementalSkill2": 245
+    },
+    "Enemy6":
+    {
+        "Id": "E6",
+        "Name": "Titan Alfadriel",
+        "Element1": "Anemo",
+        "Element2": "Cryo",
+        "Hp": 1950,
+        "ElementalSkill1": 225,
+        "ElementalSkill2": 250
+    },
+    "Enemy7":
+    {
+        "Id": "E7",
+        "Name": "Mecha Dragon",
+        "Element1": "Hydro",
+        "Element2": "Electro",
+        "Hp": 1850,
+        "ElementalSkill1": 195,
+        "ElementalSkill2": 245
+    },
+    "Enemy8":
+    {
+        "Id": "E8",
+        "Name": "Osiris",
+        "Element1": "Geo",
+        "Element2": "Pyro",
+        "Hp": 2000,
+        "ElementalSkill1": 200,
+        "ElementalSkill2": 300
+    },
+    "Enemy9":
+    {
+        "Id": "E9",
+        "Name": "Parrot King",
+        "Element1": "Hydro",
+        "Element2": "Anemo",
+        "Hp": 1550,
+        "ElementalSkill1": 225,
+        "ElementalSkill2": 300
+    },
+    "Enemy10":
+    {
+        "Id": "E10",
+        "Name": "Posseidon",
+        "Element1": "Cryo",
+        "Element2": "Hydro",
+        "Hp": 2150,
+        "ElementalSkill1": 250,
+        "ElementalSkill2": 195
+    },
+    "Enemy11":
+    {
+        "Id": "E11",
+        "Name": "Stone Golem",
+        "Element1": "Electro",
+        "Element2": "Geo",
+        "Hp": 2300,
+        "ElementalSkill1": 200,
+        "ElementalSkill2": 245
+    },
+    "Enemy12":
+    {
+        "Id": "E12",
+        "Name": "Tiamat",
+        "Element1": "Pyro",
+        "Element2": "Electro",
+        "Hp": 1825,
+        "ElementalSkill1": 300,
+        "ElementalSkill2": 245
+    },
+    "Enemy13":
+    {
+        "Id": "E13",
+        "Name": "Titan Fire",
+        "Element1": "Pyro",
+        "Element2": "Geo",
+        "Hp": 1975,
+        "ElementalSkill1": 300,
+        "ElementalSkill2": 200
+    },
+    "Enemy14":
+    {
+        "Id": "E14",
+        "Name": "Weretiger Maxima",
+        "Element1": "Electro",
+        "Element2": "Geo",
+        "Hp": 1750,
+        "ElementalSkill1": 2000,
+        "ElementalSkill2": 245
+    }
+}

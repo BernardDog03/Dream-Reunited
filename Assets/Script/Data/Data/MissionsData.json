@@ -1,0 +1,62 @@
+{
+    "Chapter1": {
+        "ChapterTitle": "Kehilangan Dan Penolakan",
+        "Achievement":"Penolakan merupakan awal mula dari fase dalam sebuah kehilangan atau kesedihan. Pada teori 5 stages of grief, fase tersebut disebut dengan Denial (penolakan).\n\nFase ini menggambarkan ketika seseorang menolak menerima suatu keadaan atau perasaan yang muncul, atau ketika mereka berusaha meyakinkan diri bahwa keadaan tersebut sebenarnya berbeda dari realitanya\n\nPada game ini fase tersebut dicontohkan pada misi Lucas bertemu denga Jasmine pada Riverwood City. Fase denial yang dialami lucas digambarkan dengan mengatakan 'Tidak... tidak mungkin. Ini Tidak munggkin terjadi'. Kalimat tersebut dapat dikatakan denial karena Lucas berusaha untuk menyangkal kejadian yang terjadi dengan sang adik. Dan fase ini , seseorang masih memiliki pemikiran bahwa orang yang telah tiada tersebut akan segera kembali." ,
+        "Mission1": "Temukan Elara Valeska di Hills Glade Residence",
+        "Mission2": "Pergi ke tempat penjualan barang-barang bekas di Hills Glade Residence, dan berbicara dengan Sam Hunter",
+        "Mission3": "Temui Officer Maverick di Harmony Hills City",
+        "Mission4": "Balik kembali ke Sam Hunter",
+        "Mission5": "Kembali ke apartemen",
+        "Mission6": "Pergi ke sekolah di River Wood City, dan bicara ke Officer Jonathan",
+        "Mission7": "Cari Rachel di Rumah Sakit River Wood City",
+        "Mission8": "Kembali ke apartemen dan pergi kedalam kamar Rachel"
+    },
+    "Chapter2":
+    {
+        "ChapterTitle": "Perjalanan Gelombang Emosi",
+        "Achievement": "Kemarahan merupakan fase kedua dari sebuah kedukaan, fase ini menandakan bahwa fase pertama telah runtuh. Pada teori 5 stages of grief, fase tersebut disebut dengan Anger (kemarahan).\n\nFase ini menggambarkan ketika seseorang menyadari bahwa orang yang ia sayangi dan cintai tidak akan kembali lagi dan membuat emosi yang tidak terhindarkan.\n\nPada game ini fase tersebut dicontohkan pada saat misi Lucas pertama kali masuk kedalam dunia mimpi. Fase Anger yang dialami Lucas digambarkan saat Lucas terbagun ditempat yang salah oleh Professor Wolfee dan mengancam Lucas untuk kehilanggan ingatannya. Pada gambaran ini menjelaskan bahwa Lucas marah dengan apa yang telah dilakukan oleh Professor Wolfee kepadanya yang membuatnya menjadi sebuah kelinci percobaan yang gagal dan mengancam Lucas setelah Lucas kehilangan sang adik tercinta.\n\nEmosi marah yang dialami seseorang merupakan emosi utama yang paling umum dan sering kali muncul dalam kehilanggan seseorang. Emosi marah ini juga diiringi dengan kesedihan, panik, sakit, dan kesepian.\n\nFase tersebut tidak selamanya berjalan berurutan. Setiap individu memiliki perbedaan dalam menanggapi kehilangan.",
+        "Mission1": "Pergi temui Sam Hunter",
+        "Mission2": "Pergi ke rumah kosong di River Wood City",
+        "Mission3": "Temui Professor Wolfe",
+        "Mission4": "Masuk kedalam dunia mimpi",
+        "Mission5": "Cari petunjuk lebih lanjut di dermaga",
+        "Mission6": "Cari petunjuk lainnya",
+        "Mission7": "Pergi ke Floatopia",
+        "Mission8": "Berbicara dengan penduduk di rumah awal"
+    },
+    "Chapter3":
+    {
+        "ChapterTitle": "Penawaran Dalam Kesedihan",
+        "Achievement": "Tawar menawar merupakan fase ketiga dari sebuah kedukaan, fase ini menandakan bahwa fase anger mulai pudar dan seseorang tersebut mulai terjebak dalam labirin penawaran. Pada teori 5 stages of grief, fase tersebut dissebut dengan Bargaining (Tawar-menawar).\n\nFase ini mencerminkan momen dimana seseorang mulai melakukan proses tawar-menawar dengan perasaan bersalah yang ada pada dirinya.\n\nPada game ini fase tersebut dicontohkan pada misi Lucas ditinggal oleh Ethan di Dale Realm untuk menggambil air di floatoppia untuk menyalakan api. Pada gambaran ini Lucas mengalami tawar menawar pada dirinya yang menanyakan kenapa sang adik yang harus pergi selamanya terlebih dahulu bukan dia.\n\nFase tersebut tidak selamanya berjalan berurutan. Setiap individu memiliki perbedaan dalam menanggapi kehilangan.",
+        "Mission1": "Pergi keperbatasan Dale Realm, dan berbicara dengan Officer Steele",
+        "Mission2": "Temui Xavier di tempat pengumpulan ikan",
+        "Mission3": "Cari Amelia Clark di Floatopia",
+        "Mission4": "Temui kembali paman Xavier",
+        "Mission5": "Temui Ethan Cross di perbatasan Dale Realm",
+        "Mission6": "Pergi menyusuri Dale Realm",
+        "Mission7": "Nyalakan api dekat tenda",
+        "Mission8": "Lanjutkan perjalanan"
+    },
+    "Chapter4":
+    {
+        "ChapterTitle": "Melalui Badai Hampa",
+        "Achievement": "Depresi merupakan fase keempat dari sebuah kedukaan, fase ini akan muncul ketika orang tersebut telah menyerah terhadap realita sebenarnya. Pada teori 5 Stages of Grief, fase tersebut disebut dengan Depresion (depresi).\n\nFase ini mengambarkan ketika seseorang mengalami perasaan seding yang ekstrim dan muncul kecenderungan untuk menjauhkan diri dari lingkungan. Resppon dari perasaan ini bermacam-macam, mulai dari menyalahkan diri sendiri, menganggap hiduppnya tidak berguna, bahkan sampai ingin mengakhiri hidup.\n\nPada game ini fase tersebut dicontohkan pada saat misi Lucas tertangkan saat ingin kabur dari penjara. Fase Depression digambarkan saat lucas diam ditempat tidur dan sudah tidak sanggupp untuk melanjutkan semua hal yang terjadi di dunia mimpi itu hingga ingin mengakhiri hidupnya. Pada fase ini, seseorang akan mengalami kehilangan gairah dalam menjalani hidupnya.\n\nFase tersebut tidak selamanya berjalan berurutan. Setiap individu memiliki perbedaan dalam menanggapi kehilangan.",
+        "Mission1": "Lanjutkan perjalanan menuju Lone Island",
+        "Mission2": "Ikuti perintah Officer Charles",
+        "Mission3": "Menjelaskan keberadaanmu",
+        "Mission4": "Pergi ke sel dan beristirahat",
+        "Mission5": "Cari jalan keluar dari penjara",
+        "Mission6": "Keluar dari penjara melalui saluran pembuangan",
+        "Mission7": "Cari jalan keluar",
+        "Mission8": "Temui Rachel"
+    },
+    "Chapter5":
+    {
+        "ChapterTitle": "Akhir Dari Kenyataan",
+        "Achievement": "Penerimaan merupakan fase akhir dari seluruh fase kedukaa, fase ini merupakan sebuah akhir dan tujuan dari penuntasan perasaan duka. Pada teori 5 Stages of Grief, fase tersebut disebut dengan Acceptance(penerimaan).\n\nFase ini menggambarkan ketika seseorang mengalami perasaan dimana dia mulai memahami realita, pelan-pelan menerima kenyataan dan mulai hidup seperti biasa.\n\nPada game ini fase tersebut dicontohkan pada misi terakhir Lucas di dalam dunia mimpi dan bertemu dengan rachel terakhir kalinya untuk meminta maaf dan berterimakasih telah menemaninya dan menyemangatinya untuk hidup setelah orang tua mereka meninggal. Dan pada saat misi terakhir yaitu Lucas membawa bonekanya kembali kemakam Rachel. Pada gambaran ini menunjukan bahaw Lucas sudah dapat menerima kepergian sang adik selamanya untuk bergabung dengan kedua orang tuanya. \n\nFase tersebut tidak selamanya berjalan berurutan. Setiap individu memiliki perbedaan dalam menanggapi kehilangan.",
+        "Mission1": "Temui Professor Wolfe",
+        "Mission2": "Temui Sam Hunter di Hills Glade Residence",
+        "Mission3": "Ambil boneka dikamar Rachel",
+        "Mission4": "Letakan boneka dimakam Rachel"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "C1":
+    {
+        "Type": "DPS",
+        "Name": "Mythical Knight",
+        "Element": "Anemo",
+        "HP": 630,
+        "BasicAtt": 150,
+        "ElementalSkill": 375,
+        "ElementalSp": 3,
+        "SpMax": 10,
+        "SpStart": 5
+    },
+    "C2":
+    {
+        "Type": "DPS",
+        "Name": "Knight Zidth",
+        "Element": "Hydro",
+        "HP": 520,
+        "BasicAtt": 150,
+        "ElementalSkill": 450,
+        "ElementalSp": 4,
+        "SpMax": 10,
+        "SpStart": 5
+    },
+    "C3":
+    {
+        "Type": "DPS",
+        "Name": "Knight Dante",
+        "Element": "Cryo",
+        "HP": 600,
+        "BasicAtt": 150,
+        "ElementalSkill": 325,
+        "ElementalSp": 2,
+        "SpMax": 10,
+        "SpStart": 5
+    },
+    "C4":
+    {
+        "Type": "DPS",
+        "Name": "Goddess Aphrodite",
+        "Element": "Pyro",
+        "HP": 665,
+        "BasicAtt": 150,
+        "ElementalSkill": 400,
+        "ElementalSp": 5,
+        "SpMax": 10,
+        "SpStart": 5
+    },
+    "C5":
+    {
+        "Type": "Tank",
+        "Name": "Ancient Priestess",
+        "Element": "Geo",
+        "HP": 850,
+        "BasicAtt": 100,
+        "ElementalSkill1": 200,
+        "ElementalSp": 4,
+        "SpMax": 10,
+        "SpStart": 5
+    },
+    "C6":
+    {
+        "Type": "Tank",
+        "Name": "Sorceress Duessa",
+        "Element": "Electro",
+        "HP": 825,
+        "BasicAtt": 100,
+        "ElementalSkill1": 150,
+        "ElementalSp": 4,
+        "SpMax": 10,
+        "SpStart": 5
+    },
+    "C7":
+    {
+        "Type": "Support",
+        "Name": "Sun Goddess",
+        "Element": "Pyro",
+        "HP": 975,
+        "BasicAtt": 75,
+        "ElementalSkill1": 120,
+        "ElementalSkill2": 3,
+        "ElementalSp": 4,
+        "SpMax": 10,
+        "SpStart": 5
+    },
+    "C8":
+    {
+        "Type": "Support",
+        "Name": "Dryad Yggdrasil",
+        "Element": "Electro",
+        "HP": 1000,
+        "BasicAtt": 75,
+        "ElementalSkill1": 240,
+        "ElementalSkill2": 2,
+        "ElementalSp": 4,
+        "SpMax": 10,
+        "SpStart": 5
+    }
+}

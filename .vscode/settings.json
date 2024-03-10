@@ -52,5 +52,6 @@
         "temp/":true,
         "Temp/":true
     },
-    "dotnet.defaultSolution": "Dream-Reunited.sln"
+    "dotnet.defaultSolution": "Dream-Reunited.sln",
+    "git.ignoreLimitWarning": true
 }
