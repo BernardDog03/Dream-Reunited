@@ -4912,7 +4912,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 207.65779
     y: 74.51687
-    width: 112.88469
+    width: 112.291435
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
